@@ -16,5 +16,8 @@ The Code is written in python3 so Dont worry it works well without Bug
 ## Installing (linux/termux):
 ```
 apt-get install git
-git clone 
+git clone https://github.com/BOT-CODER/SniperMan.git
+cd SniperMan
+bash setup.sh
+
 ```
