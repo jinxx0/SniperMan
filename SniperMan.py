@@ -11,6 +11,7 @@ if uname=="Windows":
 	cmd='cls'
 else :
 	cmd='clear'
+os.system(cmd)
 ##############
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
