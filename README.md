@@ -21,6 +21,7 @@ A botnet is a number of Internet-connected devices, each of which is running one
 
 ## Installing (linux/termux/Mac os):
 ```
+apt-get update -y
 apt-get install git
 git clone https://github.com/BOT-CODER/SniperMan.git
 cd SniperMan
@@ -29,7 +30,7 @@ bash setup.sh
 ```
 ## One line Installation:
 ```
-apt-get install git && git clone https://github.com/BOT-CODER/SniperMan.git && cd SniperMan && bash setup.sh
+apt-get update -y && apt-get install git && git clone https://github.com/BOT-CODER/SniperMan.git && cd SniperMan && bash setup.sh
 
 ```
 ## Installing (Windows):
