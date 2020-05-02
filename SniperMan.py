@@ -33,6 +33,7 @@ while True:
 		ip = input("IP Addresse  : ")
 		break
 	elif opt=='3':
+                print('\033[0m')
 		exit()
 	else:
 		print('\033[91mInvaild Choice!\033[0m')
