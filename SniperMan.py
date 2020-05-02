@@ -19,10 +19,10 @@ bytes = random._urandom(1490)
 while True:
 	print("\033[35;1m")
 	print(pyfiglet.figlet_format("Sniper     Man",font='larry3d'),'\033[0m')
-	print("  \033[91;2m                      Author : Bot-Codder")
+	print("  \033[91;1m                      Author : Bot-Codder")
 	print("    		        Github  : https://github.com/BOT-CODER")
 	print('                        Please contact us in github Page')
-	print("\033[0m","\033[92;2m")
+	print("\033[0m","\033[92;1m")
 	print("1. Website Domain\n2. IP Addresse\n3. Exit")
 	opt=input("\nEnter Your choice: ")
 	if opt=="1":
