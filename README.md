@@ -13,3 +13,8 @@ This attack is known as DDos attack
 ### Supported Devices:
  This program is supported in all operating system like linux,windows and 
 The Code is written in python3 so Dont worry it works well without Bug
+## Installing (linux/termux):
+'''
+apt update -y
+apt install
+'''
