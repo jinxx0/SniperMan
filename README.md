@@ -13,11 +13,27 @@ This attack is known as DDos attack
 ### Supported Devices:
  This program is supported in all operating system like linux,windows and 
 The Code is written in python3 so Dont worry it works well without Bug
-## Installing (linux/termux):
+
+#### Coming Soon:
+DDos attack with Botnet 
+Botnet:
+A botnet is a number of Internet-connected devices, each of which is running one or more bots. Botnets can be used to perform Distributed Denial-of-Service attacks, steal data, send spam, and allows the attacker to access the device and its connection.
+
+## Installing (linux/termux/Mac os):
 ```
 apt-get install git
 git clone https://github.com/BOT-CODER/SniperMan.git
 cd SniperMan
 bash setup.sh
+
+```
+## One line Installation:
+```
+apt-get install git && git clone https://github.com/BOT-CODER/SniperMan.git && cd SniperMan && bash setup.sh
+
+```
+## Installing (Windows):
+```
+Coming soon
 
 ```
