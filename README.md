@@ -37,10 +37,4 @@ apt-get update -y && apt-get install git && git clone https://github.com/BOT-COD
 ## Installing (Windows):
 ```
 Coming soon
-
 ```
-## Supports:
-
-![richard](https://i.ibb.co/t8DGcQ5/IMG-20200214-213902-1.jpg)
-
-Thank u richard for supporting us
