@@ -43,7 +43,7 @@ port =int(input("Port Number  : "))
 os.system(cmd)
 print('\033[36;2mINITIALIZING....')
 for i in tqdm(range(10000)):
-	print('\r')
+	print(end='\r')
 time.sleep(4)
 print('STARTING...')
 time.sleep(4)
