@@ -24,12 +24,12 @@ while True:
 	print('                        Please contact us in github Page')
 	print("\033[0m","\033[92;1m")
 	print("1. Website Domain\n2. IP Addresse\n3. Exit")
-	opt=input("\nEnter Your choice: ")
-	if opt=="1":
+	opt=str(input("\nEnter Your choice: "))
+	if opt=='1':
 		domain=str(input("Enter The Website (eg:google.com):"))
 		ip=socket.gethostbyname(domain)
 		break
-	elif opt=="2":
+	elif opt=='2':
 		ip = input("IP Addresse  : ")
 		break
 	elif opt=='3':
