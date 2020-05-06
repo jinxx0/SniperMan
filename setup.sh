@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 clear
 echo -e "                \e[31;1mInstalling SniperMan\e[0m"
 echo -e "                \e[34;1mPlease Wait upto 5min\e[0m"
