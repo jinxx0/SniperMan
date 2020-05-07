@@ -27,11 +27,12 @@ apt-get install git
 git clone https://github.com/BOT-CODER/SniperMan.git
 cd SniperMan
 bash setup.sh
+python3 SniperMan.py
 
 ```
 ## One line Installation:
 ```
-apt-get update -y && apt-get install git && git clone https://github.com/BOT-CODER/SniperMan.git && cd SniperMan && bash setup.sh
+apt-get update -y && apt-get install git && git clone https://github.com/BOT-CODER/SniperMan.git && cd SniperMan && bash setup.sh && python3 SniperMan.py
 
 ```
 ## Installing (Windows):
