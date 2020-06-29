@@ -41,4 +41,5 @@ Coming soon
 ```
 
 ## OUR Youtube channel:
- [!Tech Core](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
+                                                  [Tech Core](https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
+                                          (subscribe for hacking stuff videos )
