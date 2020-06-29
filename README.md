@@ -39,5 +39,5 @@ apt-get update -y && apt-get install git && git clone https://github.com/BOT-COD
 ```
 Coming soon
 ```
-# OUR Youtube channel:
- (https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
+## OUR Youtube channel:
+ [!tech core] (https://www.youtube.com/channel/UCQ-LKudsVwfoXRhvDF2-vGQ?sub_confirmation=1)
