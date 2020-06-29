@@ -37,7 +37,10 @@ apt-get update -y && apt-get install git && git clone https://github.com/BOT-COD
 ```
 ## Installing (Windows):
 ```
-Coming soon
+install python in your windows then follow the setps
+pip install tqdm
+pip install pyfiglet
+python Sniperman.py
 ```
 
 ## OUR Youtube channel:
